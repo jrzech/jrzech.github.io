@@ -22,7 +22,7 @@ Journal of the American Medical Informatics Association 22 (3), 682-687. 2015](h
 
 4. [J. Zech, G. Husk, T. Moore, J.S. Shapiro. Measuring the degree of unmatched patient records in a health information exchange using exact matching. Applied clinical informatics 7 (02), 330-340. 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4941843/).
 
-5. [M.A. Badgeley, B.S. Glicksberg, M. Liu, M. Shervey, J. Zech, S. Khader, N.A. Knudson, A. Costa, J. Titano, J. Schefflein, A. Su, M.V. McConnell, J. Lehar, E.K. Oermann, T.M. Snyder, J.T. Dudley. CANDI: an R package and Shiny app for annotating radiographs and evaluating Computer-Aided Diagnosis. Bioinformatics. 2018](https://academic.oup.com/bioinformatics/advance-articleabstract/doi/10.1093/bioinformatics/bty855/5126235).
+5. [M.A. Badgeley, B.S. Glicksberg, M. Liu, M. Shervey, J. Zech, S. Khader, N.A. Knudson, A. Costa, J. Titano, J. Schefflein, A. Su, M.V. McConnell, J. Lehar, E.K. Oermann, T.M. Snyder, J.T. Dudley. CANDI: an R package and Shiny app for annotating radiographs and evaluating Computer-Aided Diagnosis. Bioinformatics. 2018](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty855/5126235).
 
 6. [J. Titano, M. Badgeley, A. Costa, M. Pain, A. Su, N. Swinburne, M. Cai, J. Zech, J. Kim, J. Mocco, J. Bederson, J. Caridi, S. Cho, J. Lehar, E.K. Oermann. Automated surveillance of head CTs for acute neurologic events with deep neural networks. Nature Medicine. 2018](https://www.ncbi.nlm.nih.gov/pubmed/30104767).
 
@@ -36,7 +36,7 @@ Journal of the American Medical Informatics Association 22 (3), 682-687. 2015](h
 
 [reproduce-chexnet](https://github.com/jrzech/reproduce-chexnet): recreates the [ChexNet model of Rajpurkar et al.](https://arxiv.org/abs/1711.05225), and includes heatmaps to evaluate which regions of an image influenced predictions. Can be run entirely in your web browser using [binder](https://mybinder.org/).
 
-[rad-report-annotator](https://github.com/aisinai/rad-report-annotator): allows you to annotate a large corpus of radiology reports using a small labeled subset using the methods described [in our paper which appeared in Radiology](https://pubs.rsna.org/doi/10.1148/radiol.2018171093)
+[rad-report-annotator](https://github.com/aisinai/rad-report-annotator): allows you to annotate a large corpus of radiology reports using a small labeled subset using the methods described [in our paper which appeared in Radiology](https://pubs.rsna.org/doi/10.1148/radiol.2018171093).
 
 
 
