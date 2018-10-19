@@ -26,10 +26,11 @@ I am working to understand how we can apply machine learning to create effective
 
 6. [J. Titano, D. Biederman, J. Zech, R. Korff, M. Ranade, R. Patel, E. Kim, F. Nowakowski, R. Lookstein, A. Fischman. Safety and feasibility of transradial access in patients with elevated INR. Journal of Vascular and Interventional Radiology. 2018](https://www.jvir.org/article/S1051-0443(17)31030-8/fulltext).
 
-7. [J. Zech, G. Husk, T. Moore, G.J. Kuperman, and J.S. Shapiro. Identifying homelessness using health information exchange data. 
+7. [J. Zech, G. Husk, T. Moore, J.S. Shapiro. Measuring the degree of unmatched patient records in a health information exchange using exact matching. Applied Clinical Informatics 7 (02), 330-340. 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4941843/).
+
+8. [J. Zech, G. Husk, T. Moore, G.J. Kuperman, and J.S. Shapiro. Identifying homelessness using health information exchange data. 
 Journal of the American Medical Informatics Association 22 (3), 682-687. 2015](https://academic.oup.com/jamia/article/22/3/682/772673).
 
-8. [J. Zech, G. Husk, T. Moore, J.S. Shapiro. Measuring the degree of unmatched patient records in a health information exchange using exact matching. Applied Clinical Informatics 7 (02), 330-340. 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4941843/).
 
 ## Additional Resources
 
