@@ -9,7 +9,7 @@ Starting July 2019, I will be a diagnostic radiology resident at [Columbia Unive
 
 ## Research Interest
 
-I am working to understand how we can apply machine learning to create effective clinical decision support in medicine, particularly in the context of diagnostic radiology.
+I am working to understand how we can apply machine learning to create effective clinical decision support in medicine, particularly in diagnostic radiology.
 
 ## Publications
 
@@ -24,7 +24,7 @@ Journal of the American Medical Informatics Association 22 (3), 682-687. 2015](h
 
 5. [M.A. Badgeley, B.S. Glicksberg, M. Liu, M. Shervey, J. Zech, S. Khader, N.A. Knudson, A. Costa, J. Titano, J. Schefflein, A. Su, M.V. McConnell, J. Lehar, E.K. Oermann, T.M. Snyder, J.T. Dudley. CANDI: an R package and Shiny app for annotating radiographs and evaluating Computer-Aided Diagnosis. Bioinformatics. 2018](https://academic.oup.com/bioinformatics/advance-articleabstract/doi/10.1093/bioinformatics/bty855/5126235).
 
-6. [J. Titano, M. Badgeley, A. Costa, M. Pain, A. Su, N. Swinburne, M. Cai, J. Zech, J. Kim, J. Mocco, J. Bederson, J. Caridi, S. Cho, J. Lehar, E.K. Oermann. Automated surveillance of head CTs for acute neurologic events with deep neural networks. Nature Medicine. 2018](https://www.ncbi.nlm.nih. gov/pubmed/30104767).
+6. [J. Titano, M. Badgeley, A. Costa, M. Pain, A. Su, N. Swinburne, M. Cai, J. Zech, J. Kim, J. Mocco, J. Bederson, J. Caridi, S. Cho, J. Lehar, E.K. Oermann. Automated surveillance of head CTs for acute neurologic events with deep neural networks. Nature Medicine. 2018](https://www.ncbi.nlm.nih.gov/pubmed/30104767).
 
 7. [J. Zech, J. Forde, J. Titano, D. Kaji, A. Costa, E.K. Oermann. Detecting insertion, substitution, and deletion errors in radiology reports using neural sequence-to-sequence models. Annals of Translational Medicine. 2018](http://atm.amegroups.com/article/view/21131).
 
