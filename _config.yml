@@ -16,7 +16,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/jrzech.github.io/"
+   link: "http://jrzech.github.io"
  - name: "Contact"
    link: "contact"
  - name: "Google Scholar"
