@@ -1,15 +1,14 @@
 title: Researcher
 url: "https://jrzech.github.io"
 
-baseurl: "/researcher"
+baseurl: "/jrzech.github.io"
 
 markdown: kramdown
 
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/jrzech"
 
 sass:
     style: compressed
@@ -18,7 +17,13 @@ sass:
 nav:
  - name: "About"
    link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
  - name: "Contact"
    link: "contact"
+ - name: "Google Scholar"
+   link: "gscholar"
+ - name: "Medium"
+   link: "medium"
+ - name: "Twitter"
+   link: "twitter"
+ - name: "LinkedIn"
+   link: "linkedin"
