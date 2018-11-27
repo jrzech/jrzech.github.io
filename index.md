@@ -15,7 +15,7 @@ I am working to understand how we can apply machine learning to create effective
 
 1. [M.A. Badgeley, J.R. Zech, L. Oakden-Rayner, B.S. Glicksberg, M. Liu, W. Gale, M.V. McConnell, B. Percha, T.M. Snyder, J.T. Dudley. Deep learning predicts hip fracture using confounding patient and healthcare variables. arXiv.](https://arxiv.org/abs/1811.03695)
 
-2. [J.R. Zech, M.A. Badgeley, M. Liu, A.B. Costa, J.J. Titano, E.K. Oermann. Variable generalization performance of a deep learning model to detect pneumonia in chest radiographs: A cross-sectional study. PLoS Med 15(11): e1002683.](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002683). Previously preprinted on [arXiv as 'Confounding variables can degrade generalization performance of radiological deep learning models.'](https://arxiv.org/abs/1807.00431)
+2. [J.R. Zech, M.A. Badgeley, M. Liu, A.B. Costa, J.J. Titano, E.K. Oermann. Variable generalization performance of a deep learning model to detect pneumonia in chest radiographs: A cross-sectional study. PLoS Med 15(11): e1002683](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002683). Previously preprinted on [arXiv as 'Confounding variables can degrade generalization performance of radiological deep learning models.'](https://arxiv.org/abs/1807.00431)
 
 3. [M.A. Badgeley, B.S. Glicksberg, M. Liu, M. Shervey, J. Zech, S. Khader, N.A. Knudson, A. Costa, J. Titano, J. Schefflein, A. Su, M.V. McConnell, J. Lehar, E.K. Oermann, T.M. Snyder, J.T. Dudley. CANDI: an R package and Shiny app for annotating radiographs and evaluating Computer-Aided Diagnosis. Bioinformatics. 2018](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty855/5126235).
 
