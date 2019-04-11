@@ -40,6 +40,9 @@ Journal of the American Medical Informatics Association 22 (3), 682-687. 2015.](
 ## Additional Resources
 
 2018 Oct 2: talk on deep learning in radiology given at UCSF Department of Radiation Oncology, [slides](http://jrzech.github.io/zech_deep_learning_radiology_ucsf_2018_10_02.pdf)
+
+2019 April 10: talk on 'AI' in medicine given at California Pacific Medical Center - Department of Internal Medicine, [slides](http://jrzech.github.io/zech_ml_in_medicine_cpmc_2019_04_09.pdf)
+
 ## Code
 
 [reproduce-chexnet](https://github.com/jrzech/reproduce-chexnet): recreates the [ChexNet model of Rajpurkar et al.](https://arxiv.org/abs/1711.05225), and includes heatmaps to evaluate which regions of an image influenced predictions. Can be run entirely in your web browser using [binder](https://mybinder.org/).
