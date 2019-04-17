@@ -36,20 +36,20 @@ I am working to understand how we can apply machine learning to create effective
 11. [J. Zech, G. Husk, T. Moore, G.J. Kuperman, and J.S. Shapiro. Identifying homelessness using health information exchange data. 
 Journal of the American Medical Informatics Association 22 (3), 682-687. 2015.](https://academic.oup.com/jamia/article/22/3/682/772673)
 
-
-## Additional Resources
-
-2018 Oct 2: talk on deep learning in radiology given at UCSF Department of Radiation Oncology, [slides](http://jrzech.github.io/zech_deep_learning_radiology_ucsf_2018_10_02.pdf)
-
-2019 April 10: talk on 'AI' in medicine given at California Pacific Medical Center - Department of Internal Medicine, [slides](http://jrzech.github.io/zech_ml_in_medicine_cpmc_2019_04_09.pdf)
-
 ## Code
 
 [reproduce-chexnet](https://github.com/jrzech/reproduce-chexnet): recreates the [ChexNet model of Rajpurkar et al.](https://arxiv.org/abs/1711.05225), and includes heatmaps to evaluate which regions of an image influenced predictions. Can be run entirely in your web browser using [binder](https://mybinder.org/).
 
 [rad-report-annotator](https://github.com/aisinai/rad-report-annotator): allows you to annotate a large corpus of radiology reports using a small labeled subset using the methods described [in our paper which appeared in Radiology](https://pubs.rsna.org/doi/10.1148/radiol.2018171093).
 
+## Media
 
+[How Can Doctors Be Sure A Self-Taught Computer Is Making The Right Diagnosis? All Things Considered : NPR. 2019 April 1.](https://www.npr.org/sections/health-shots/2019/04/01/708085617/how-can-doctors-be-sure-a-self-taught-computer-is-making-the-right-diagnosis) 
 
+[The Promise and Perils of AI Medical Care. Bloomberg News. 2018 August 15.](https://www.bloomberg.com/news/articles/2018-08-15/the-promise-and-perils-of-ai-medical-care) 
 
+## Presentations
 
+2019 April 10: talk on 'AI' in medicine given at California Pacific Medical Center - Department of Internal Medicine, [slides](http://jrzech.github.io/zech_ml_in_medicine_cpmc_2019_04_09.pdf)
+
+2018 Oct 2: talk on deep learning in radiology given at UCSF Department of Radiation Oncology, [slides](http://jrzech.github.io/zech_deep_learning_radiology_ucsf_2018_10_02.pdf)
