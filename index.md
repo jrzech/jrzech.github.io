@@ -13,11 +13,11 @@ I am working to understand how we can apply machine learning to create effective
 
 ## Publications
 
-1. [D.A Kaji, J.R. Zech, J.S. Kim, S.K. Cho, N.S. Dangayach, A.B. Costa, E.K. Oermann. An attention based deep learning model of clinical events in the intensive care unit. PloS One 14 (2), e0211057. 2019.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0211057)
+1. [M.A. Badgeley, J.R. Zech, L. Oakden-Rayner, B.S. Glicksberg, M. Liu, W. Gale, M.V. McConnell, B. Percha, T.M. Snyder, J.T. Dudley. Deep learning predicts hip fracture using confounding patient and healthcare variables. npj Digital Medicine, Vol 2, Article number: 31. 2019.](https://www.nature.com/articles/s41746-019-0105-1) Previously preprinted on [arXiv.] (https://arxiv.org/abs/1811.03695)
 
-2. [B. Marinelli, M. Kang, M. Martini, J.R. Zech, J. Titano, S. Cho, A.B. Costa, E.K. Oermann. Combination of Active Transfer Learning and Natural Language Processing to Improve Liver Volumetry Using Surrogate Metrics with Deep Learning. Radiology: Artificial Intelligence. 2019.](https://pubs.rsna.org/doi/abs/10.1148/ryai.2019180019)
+2. [D.A Kaji, J.R. Zech, J.S. Kim, S.K. Cho, N.S. Dangayach, A.B. Costa, E.K. Oermann. An attention based deep learning model of clinical events in the intensive care unit. PloS One 14 (2), e0211057. 2019.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0211057)
 
-3. [M.A. Badgeley, J.R. Zech, L. Oakden-Rayner, B.S. Glicksberg, M. Liu, W. Gale, M.V. McConnell, B. Percha, T.M. Snyder, J.T. Dudley. Deep learning predicts hip fracture using confounding patient and healthcare variables. arXiv. 2018.](https://arxiv.org/abs/1811.03695)
+3. [B. Marinelli, M. Kang, M. Martini, J.R. Zech, J. Titano, S. Cho, A.B. Costa, E.K. Oermann. Combination of Active Transfer Learning and Natural Language Processing to Improve Liver Volumetry Using Surrogate Metrics with Deep Learning. Radiology: Artificial Intelligence. 2019.](https://pubs.rsna.org/doi/abs/10.1148/ryai.2019180019)
 
 4. [J.R. Zech, M.A. Badgeley, M. Liu, A.B. Costa, J.J. Titano, E.K. Oermann. Variable generalization performance of a deep learning model to detect pneumonia in chest radiographs: A cross-sectional study. PLoS Med 15(11): e1002683. 2018.](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002683) Previously preprinted on arXiv as ['Confounding variables can degrade generalization performance of radiological deep learning models.'](https://arxiv.org/abs/1807.00431)
 
