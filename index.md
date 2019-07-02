@@ -4,8 +4,7 @@ layout: default
 
 ## About Me
 
-I am a preliminary medicine intern at [California Pacific Medical Center](https://www.sutterhealth.org/cpmc) in San Francisco. 
-Starting July 2019, I will be a diagnostic radiology resident at [Columbia](https://www.columbiaradiology.org/).
+I am a diagnostic radiology resident at [Columbia](https://www.columbiaradiology.org/).
 
 ## Research Interest
 
