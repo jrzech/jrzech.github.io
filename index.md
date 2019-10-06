@@ -47,6 +47,8 @@ Journal of the American Medical Informatics Association 22 (3), 682-687. 2015.](
 
 [The Promise and Perils of AI Medical Care. Bloomberg News. 2018 August 15.](https://www.bloomberg.com/news/articles/2018-08-15/the-promise-and-perils-of-ai-medical-care) 
 
+[Digital assistants aid disease diagnosis. Nature: Outlook. 2019 September 25.](https://www.nature.com/articles/d41586-019-02870-4)
+
 ## Presentations
 
 2019 April 10: talk on 'AI' in medicine given at California Pacific Medical Center - Department of Internal Medicine, [slides](http://jrzech.github.io/zech_ml_in_medicine_cpmc_2019_04_09.pdf)
