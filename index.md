@@ -54,3 +54,7 @@ Journal of the American Medical Informatics Association 22 (3), 682-687. 2015.](
 2019 April 10: talk on 'AI' in medicine given at California Pacific Medical Center - Department of Internal Medicine, [slides](http://jrzech.github.io/zech_ml_in_medicine_cpmc_2019_04_09.pdf)
 
 2018 Oct 2: talk on deep learning in radiology given at UCSF Department of Radiation Oncology, [slides](http://jrzech.github.io/zech_deep_learning_radiology_ucsf_2018_10_02.pdf)
+
+## Peer Review
+
+I am currently serving on the [Radiology: AI trainee editorial board](https://www.rsna.org/en/news/2019/November-December/Rad-AI-Trainee-Editorial-Board-Announcement). I am glad to provide peer review, and have previously reviewed for the NeurIPS Machine Learning for Healthcare workshop, the American Medical Informatics Association annual conference, Medical Physics, and Applied Clinical Informatics.
