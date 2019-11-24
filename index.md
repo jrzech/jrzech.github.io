@@ -57,4 +57,4 @@ Journal of the American Medical Informatics Association 22 (3), 682-687. 2015.](
 
 ## Peer Review
 
-I am currently serving on the [Radiology: AI trainee editorial board](https://www.rsna.org/en/news/2019/November-December/Rad-AI-Trainee-Editorial-Board-Announcement). I am glad to provide peer review, and have previously reviewed for the NeurIPS Machine Learning for Healthcare workshop, the American Medical Informatics Association annual conference, Medical Physics, and Applied Clinical Informatics.
+I am currently serving on the [Radiology: AI](https://pubs.rsna.org/journal/ai) trainee editorial board. I am glad to provide review of work to submitted to conferences or journals, and have previously reviewed for the NeurIPS Machine Learning for Healthcare workshop, the American Medical Informatics Association annual conference, Medical Physics, and Applied Clinical Informatics.
