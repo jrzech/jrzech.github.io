@@ -1,9 +1,10 @@
 title: John Zech
 url: "https://jrzech.github.io"
 
-baseurl: "/jrzech.github.io"
+baseurl: ""
 
 markdown: kramdown
+#ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
@@ -16,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "http://jrzech.github.io"
+   link: ""
  - name: "Contact"
    link: "contact"
  - name: "Google Scholar"
