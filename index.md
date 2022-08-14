@@ -8,8 +8,6 @@ I am a diagnostic radiology resident at [Columbia](https://www.columbiaradiology
 
 Prior to this, I completed medical school at [Mount Sinai](https://icahn.mssm.edu) and a preliminary medicine year at [California Pacific Medical Center](https://www.suttermd.com/education/residency/cpmc-internal-medicine). Before medicine, I worked in investment management and completed a master's degree in Statistics at [Columbia](http://stat.columbia.edu).
 
-![picture](http://jrzech.github.io/profile.jpg)
-
 ## Research Interest
 
 I am working to understand how we can apply machine learning to create effective clinical decision support in medicine, particularly in radiology.
