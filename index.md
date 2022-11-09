@@ -52,9 +52,3 @@ Journal of the American Medical Informatics Association 22 (3), 682-687. 2015.](
 [John Zech, MD, MA Receives 2022 RSNA Resident/Fellow Research Grant. Columbia Radiology. 2022 June 7.](https://www.columbiaradiology.org/news/john-zech-md-ma-receives-2022-rsna-resident-fellow-research-grant)
 
 
-
-## Presentations
-
-2019 April 10: talk on 'AI' in medicine given at California Pacific Medical Center - Department of Internal Medicine, [slides](http://jrzech.github.io/zech_ml_in_medicine_cpmc_2019_04_09.pdf)
-
-2018 Oct 2: talk on deep learning in radiology given at UCSF Department of Radiation Oncology, [slides](http://jrzech.github.io/zech_deep_learning_radiology_ucsf_2018_10_02.pdf)
