@@ -6,7 +6,7 @@ layout: default
 
 I am a musculoskeletal radiology fellow at [NYU](https://med.nyu.edu/departments-institutes/radiology/).
 
-Prior to this, I completed medical school at [Mount Sinai](https://icahn.mssm.edu), a preliminary medicine year at [California Pacific Medical Center](https://www.suttermd.com/education/residency/cpmc-internal-medicine), and radiology residency at [Columbia](https://www.columbiaradiology.org/). Before medicine, I worked in investment management and completed a master's degree in Statistics at [Columbia](http://stat.columbia.edu).
+Prior to this, I completed medical school at [Mount Sinai](https://icahn.mssm.edu), a preliminary medicine year at [California Pacific Medical Center](https://www.suttermd.com/education/residency/cpmc-internal-medicine), and radiology residency at [Columbia](https://www.columbiaradiology.org/). Before medicine, I worked in investment management and completed a master's degree in Statistics at [Columbia](http://stat.columbia.edu). 
 
 ## Research Interest
 
