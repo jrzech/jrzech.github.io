@@ -10,7 +10,7 @@ Prior to this, I completed medical school at [Mount Sinai](https://icahn.mssm.ed
 
 ## Research Interest
 
-I am working to understand how we can apply machine learning to create effective clinical decision support in radiology.
+I am working to understand how we can apply machine learning to create effective clinical decision support in radiology, particularly in musculoskeletal imaging.
 
 ## Publications
 
