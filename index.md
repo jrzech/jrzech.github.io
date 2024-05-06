@@ -14,7 +14,7 @@ I am working to understand how we can apply machine learning to create effective
 
 ## Publications
 
-1. [J.R. Zech, C.O. Ezuma, S. Patel, C.R. Edwards, R. Posner, E. Hannon, F. Williams, S.V. Lala, Z.Y. Ahmad, M.P. Moy, T.T. Artificial intelligence improves resident detection of pediatric and young adult upper extremity fractures. Skeletal Radiology. 2024.](https://pubmed.ncbi.nlm.nih.gov/38695875/)
+1. [J.R. Zech, C.O. Ezuma, S. Patel, C.R. Edwards, R. Posner, E. Hannon, F. Williams, S.V. Lala, Z.Y. Ahmad, M.P. Moy, T.T. Wong. Artificial intelligence improves resident detection of pediatric and young adult upper extremity fractures. Skeletal Radiology. 2024.](https://pubmed.ncbi.nlm.nih.gov/38695875/)
 2. [J.R. Zech, L. Santos, S. Staffa, D. Zurakowski, K.A. Rosenwasser, A. Tsai, D. Jaramillo. Lower Extremity Growth according to AI Automated Femorotibial Length Measurement on Slot-Scanning Radiographs in Pediatric Patients. Radiology. 2024.](https://pubmed.ncbi.nlm.nih.gov/38687217/)
 3. [E.F. Alaia, M. Samim, I. Khodarahmi, J.R. Zech, A.R. Spath, M.D.S. Cardoso, S. Gyftopoulos. Utility of MRI for Patients 45 Years Old and Older With Hip or Knee Pain: A Systematic Review. Americal Journal of Roentgenology. 2024.](https://pubmed.ncbi.nlm.nih.gov/38568033/)
 4. [J.R. Zech, D. Jaramillo, J. Altosaar, C.A. Popkin, T.T. Wong. Artificial intelligence to identify fractures on pediatric and young adult upper extremity radiographs. Pediatric Radiology. 2023.](https://pubmed.ncbi.nlm.nih.gov/37740031/)
