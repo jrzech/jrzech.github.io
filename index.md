@@ -52,10 +52,13 @@ Journal of the American Medical Informatics Association 22 (3), 682-687. 2015.](
 
 [Digital assistants aid disease diagnosis. Nature: Outlook. 2019 September 25.](https://www.nature.com/articles/d41586-019-02870-4)
 
-[The Promise and Perils of AI Medical Care. Bloomberg News. 2018 August 15.](https://www.bloomberg.com/news/articles/2018-08-15/the-promise-and-perils-of-ai-medical-care) 
-
 [John Zech, Third Year Radiology Resident. Columbia Radiology. 2021 July 21.](https://www.columbiaradiology.org/news/john-zech-md-third-year-radiology-resident)
 
 [John Zech, MD, MA Receives 2022 RSNA Resident/Fellow Research Grant. Columbia Radiology. 2022 June 7.](https://www.columbiaradiology.org/news/john-zech-md-ma-receives-2022-rsna-resident-fellow-research-grant)
 
+[The Promise and Perils of AI Medical Care. Bloomberg News. 2018 August 15.](https://www.bloomberg.com/news/articles/2018-08-15/the-promise-and-perils-of-ai-medical-care) 
+
+[AI brings scoliosis monitoring on x-rays into modern era. Aunt Minnie. May 1, 2024.](https://www.auntminnie.com/clinical-news/digital-x-ray/article/15669823/ai-brings-scoliosis-monitoring-on-xrays-into-modern-era)
+
+[AI model can help diagnose pediatric buckle fractures. Aunt Minnie. December 5, 2021.](https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15629990/ai-model-can-help-diagnose-pediatric-buckle-fractures)
 
