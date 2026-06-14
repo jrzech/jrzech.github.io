@@ -14,7 +14,7 @@ I am working to understand how we can apply artificial intelligence to provide e
 
 ## Publications
 
-1. [Zech J.R. Radiomics in musculoskeletal imaging: what is its role in the era of deep learning?. Skeletal Radiology. 2026.](https://pubmed.ncbi.nlm.nih.gov/40164073/](https://pubmed.ncbi.nlm.nih.gov/42159632/)
+1. [Zech J.R. Radiomics in musculoskeletal imaging: what is its role in the era of deep learning?. Skeletal Radiology. 2026.](https://pubmed.ncbi.nlm.nih.gov/42159632/)
 2. [Xu S.Q., Yang H.R., Roa T., Ahmad Z.Y., Zech J.R., Wong T.T. The impact of experience on radiology report uncertainty for early-career musculoskeletal radiologists. Skeletal Radiology. 2026.](https://pubmed.ncbi.nlm.nih.gov/41973208/)
 3. [Norris S.A., Carrion D., Hržić F., Zech J.R., Uribe S., Badawy M.K. Enhancing automated fracture detection in paediatric wrist X-rays with paired and unpaired cast suppression methods. IJCARS. 2026.](https://pubmed.ncbi.nlm.nih.gov/41857342/)
 4. [Zech J.R. Test-Driving Radiology Artificial Intelligence Products Should Be Standard Practice. American Journal of Roentgenology. 2026.](https://pubmed.ncbi.nlm.nih.gov/41848492/)
